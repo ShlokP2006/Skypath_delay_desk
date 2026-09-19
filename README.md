@@ -3,6 +3,7 @@
 A Streamlit app that forecasts whether a US departure will leave more than 15 minutes late, built on the flight delay dataset (`DEP_DEL15` target). You fill in a flight plan, and the app returns a boarding-pass style briefing with the delay odds, the best slot of the day for the same flight, and the factors moving the odds.
 
 Delay risk is graded with the same four colours pilots use for METAR flight categories: VFR (low), MVFR (slightly elevated), IFR (high) and LIFR (very high).
+LIVE LINK FOR THE APPLICATION:https://skypathdelaydesk-9mrenerrpphpto99oucxvz.streamlit.app/
 
 ## Quick start
 
