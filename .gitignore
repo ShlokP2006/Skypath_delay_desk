@@ -1,6 +1,5 @@
 __pycache__/
 *.pyc
 data/*.csv
-artifacts/*
-!artifacts/.gitkeep
 .venv/
+.DS_Store
